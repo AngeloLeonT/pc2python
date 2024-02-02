@@ -1,3 +1,7 @@
+# Crear una lista 
+# Crear alumno por alumno con sus cursos y notas
+# Imprimir el resultado
+
 lista = list()
 lista
 
